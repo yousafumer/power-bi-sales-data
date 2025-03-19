@@ -13,7 +13,7 @@ The dataset used in this project is publicly available on **GitHub**. It include
 - **Product categories**
 - **Revenue and profit margins**
 
-🔗 **Download the dataset here:** 
+🔗 **Download the dataset here:** https://github.com/yousafumer/power-bi-sales-data
 
 ## 🎯 Key Insights and Visualizations
 
@@ -42,7 +42,7 @@ The Power BI dashboard provides the following insights:
 
 This project serves as an excellent starting point for **beginners in Power BI**, showcasing how to transform raw sales data into meaningful business insights.
 
-📢 **Follow me on ********[LinkedIn] https://www.linkedin.com/in/yousaf-umer-558102214/******** for more projects!**
+📢 **Follow me on ********LinkedIn :- https://www.linkedin.com/in/yousaf-umer-558102214/******** for more projects!**
 
 📧 For any queries, feel free to reach out at **yousafumer128@gmail.com**.
 
